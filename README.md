@@ -87,7 +87,3 @@ sistema_colonia.py
 - Lógica booleana para tomada de decisão
 
 ---
-
-## Autores
-
-Projeto desenvolvido como entregável acadêmico da disciplina de Programação / Fundamentos de Computação.
